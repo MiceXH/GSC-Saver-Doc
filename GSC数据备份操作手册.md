@@ -294,15 +294,7 @@
 - ✅ **多号管理**：自动备份你名下所有站点的数据。
 - ✅ **可视化看板**：内置 Looker Studio 模板，直接生成直观可视化的报表。
 
-**🎁 内测福利** 如果你对这个“懒人版”感兴趣，欢迎加入等待名单。产品上线时，我会第一时间为你发送 **5 折早鸟优惠码**。
-
-[👉 点击这里加入 Waitlist (早鸟优惠)](https://tally.so/r/PdOB7V)
-
-
-
-也可以扫码预约
-
-![](https://hexo-mice.oss-cn-hongkong.aliyuncs.com/img/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+[👉 Get GSC Saver on Chrome Web Store](https://chromewebstore.google.com/detail/jafnmmnidbecklolnjlkakhppjmoolfn?utm_source=item-share-cb)
 
 ---
 
@@ -316,6 +308,3 @@
 > - **Email**: maxinhao1997@gmail.com
 > - **WeChat**:mice1024aa (请备注：GSC)
 
----
-
-*本文档专供 **哥飞群友** 内部交流使用，请勿外传。*

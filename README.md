@@ -1,3 +1,5 @@
+[中文文档](https://github.com/MiceXH/GSC-Saver-Doc/blob/main/README_CN.md) 
+
 # GSC Saver: Permanent Backup Solution for Google Search Console Data
 
 Google Search Console only keeps your search data for **16 months**. If you don't archive it, you lose your historical SEO insights forever.
